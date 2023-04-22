@@ -1,5 +1,5 @@
 # tent-puzzle-elixir
-This was my homework to solve the Tent puzzle in Elixir with the fastest solution.
+This was my homework to solve the Tent puzzle in Elixir with an optimal and fast solution.
 Here are two tests
 A puzzle and its solution.
 ```
